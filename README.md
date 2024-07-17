@@ -2,15 +2,15 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ KINGH+MD+BOT★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MUTHEE+KINGH🌹🥰;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ KINGH+MD+BOT🌹★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MUTHEE+KINGH🌹🥰;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{muthee kingh}/count.svg" alt="muthee kingh :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/muthee kingh?color=red&style=flat-square"></a>
+<a href="https://github.com/muthee kingh/followers"><img title="Followers" src="https://img.shields.io/github/followers/muthee kingh?color=red&style=flat-square"></a>
 <a href="https://github.com/muthee kingh/kingh md bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muthee kingh/Kìngh-md bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muthee kingh/Kìngh-md bot?color=red&style=flat-square"></a>
+<a href="https://github.com/muthee kingh/Kìngh-md bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muthee kingh/Kìngh-md bot?color=red&style=flat-square"></a>
 <a href="https://github.com/muthee kingh/Kìngh-md bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/muthee kingh/Kìngh-md bot/"><img title="Size" src="https://img.shields.io/github/repo-size/muthee kingh/Kìngh-md bot?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeeCeeXxx%2FQueen_Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
