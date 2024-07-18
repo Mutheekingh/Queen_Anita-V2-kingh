@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `QUEEN_ANITA-V2 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L\n\n ${Config.botname} *©David Cyril*`;
+    const channelMessage = `K I N G H -MD BOT 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/\n\n ${Config.botname} *©Muthee Kingh*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `*SUPPORT DAVID CYRIL*\n\n OPay Bank: OPay Digital Services Limited(OPay)\n\n OPay Account: 9066528353\n\n *Support The Developer*2\n\n ${Config.botname} *David*`;
+    const SupportMsg = `*SUPPORT Muthee Kingh*\n\n OPay Bank: OPay Digital Services Limited(OPay)\n\n OPay Account: 254723780545\n\n *Support The Developer*2\n\n ${Config.botname} *Kingh*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -150,7 +150,7 @@ smd(
    filename: __filename
  }, async _0x17bb63 => {
    try {
-     let _0x12a593 = "*QUEEN_ANITA-V2 CURRENTLY ACTIVE!*";
+     let _0x12a593 = "*K I N G H -MD BOT CURRENTLY ACTIVE!*";
      await _0x17bb63.reply(_0x12a593, {
        contextInfo: {
          externalAdReply: {
