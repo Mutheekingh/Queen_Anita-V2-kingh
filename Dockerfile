@@ -1,10 +1,10 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 /root/DeeCeeXxx
+RUN git clone https://github.com/Muthee Kingh/K I N G H -MD BOT /root/Muthee Kingh
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/DeeCeeXxx/node_modules
+RUN rm -rf /root/Muthee Kingh/node_modules
 
 # Install dependencies
 WORKDIR /root/DeeCeeXxx
